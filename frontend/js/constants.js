@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Aliens Evo";
 const welcome_p = 'Aliens EVO is a new NFT collection of unique aliens that you will love to have in your private collection.  ';
-const welcome_h4 = "Connect your Metamask Wallet";
+const welcome_h2 = "Connect your Metamask Wallet";
 const h1_presale_coming_soon = "NFT Drop to be announced soon!";
 const h1_presale_mint = "Pre-Sale is now Open";
 const h1_public_mint = "Public Minting is now Open!!";
