@@ -2,23 +2,23 @@ const contractAddress = "0xC7a91a6a87094e4d796956A8bd9f2c5F899EE698"; //Replace 
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Aliens Evo";
-const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
-const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
-const h1_presale_mint = "Pre-Sale Minting Open!!";
-const h1_public_mint = "Public Minting Open!!";
+const welcome_h2 = "Connect to MetaMask to mint an unique Alien";
+const welcome_p = 'Aliens EVO is a new NFT collection of unique aliens that you will love to have in your private collection.  ';
+const h1_presale_coming_soon = "NFT Drop to be announced soon!";
+const h1_presale_mint = "Pre-Sale is now Open";
+const h1_public_mint = "Public Minting is now Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
 const p_presale_coming_soon = "We are working hard to launch the NFT Collection. Stay tuned for updates!";
 const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
 const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
-const p_public_mint = "Public minting is now open! 🎉";
+const p_public_mint = "Public Mint is now Open";
 const button_presale_coming_soon = "Get on the Whitelist";
-const button_presale_mint_whitelisted = "Mint Your Special NFT";
+const button_presale_mint_whitelisted = "Mint your unique Alien";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
 const button_presale_already_minted = "Join The Community";
-const button_public_mint = "Mint Your NFT";
+const button_public_mint = "Mint your Alien now, Good luck";
 const mint_failed = "Minting failed. 😢 Please try again.";
 
 const abi = [
