@@ -2,9 +2,8 @@ const contractAddress = "0xC7a91a6a87094e4d796956A8bd9f2c5F899EE698"; //Replace 
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Aliens Evo";
-const welcome_h2 = "";
+const welcome_h2 = "g";
 const welcome_p = 'Aliens EVO is a new NFT collection of unique aliens that you will love to have in your private collection.  ';
-const welcome_h1 = "About us"
 const h1_presale_coming_soon = "NFT Drop to be announced soon!";
 const h1_presale_mint = "Pre-Sale is now Open";
 const h1_public_mint = "Public Mint is Live!";
