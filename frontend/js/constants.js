@@ -1,7 +1,7 @@
 const contractAddress = "0xC7a91a6a87094e4d796956A8bd9f2c5F899EE698"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Aliens Evo";
+const welcome_h1 = "Aliens Evo<br> Mint & Win Project";
 const welcome_h2 = "";
 const welcome_p = 'Aliens EVO is a new NFT collection of unique aliens that you will love to have in your private collection.<br> <br> <button class="wallet-btn btn"><span>Mint & Win Project</span></button>';
 const h1_presale_coming_soon = "NFT Drop to be announced soon!";
