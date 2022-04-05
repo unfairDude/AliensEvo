@@ -4,6 +4,7 @@ const chain = 'polygon'; // rinkeby or polygon
 const welcome_h1 = "Aliens Evo";
 const welcome_h2 = "";
 const welcome_p = 'Aliens EVO is a new Mint & Win Project of unique aliens that you will love to have in your private collection.<br> <br> <button class="wallet-btn btn"><span>Mint & Win Project</span></button> <br>';
+const about_h1 = "About us"
 const h1_presale_coming_soon = "NFT Drop to be announced soon!";
 const h1_presale_mint = "Pre-Sale is now Open";
 const h1_public_mint = "Public Mint is Live!";
