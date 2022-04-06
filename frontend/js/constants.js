@@ -1,25 +1,26 @@
 const contractAddress = "0xC7a91a6a87094e4d796956A8bd9f2c5F899EE698"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Aliens Evo";
-const welcome_p = '1st paragrphghdadsadjadagsdagdahdhagsdhgasdjghasdhjgasdhgjasdhg /n  ajsdghjasdghjasdghjsdghasgdhjdjghasgjhddghjadghjdghasdhgjshdjhjd';
-const welcome_h2 = "second Title line";
-//const welcome_pq = '2nd paragraph';
+const welcome_h2 = "";
+const welcome_p = 'Aliens EVO is a new collection of unique aliens that you will love to have in your private collection.';
+const about_h1 = "Mint & Win Project";
+const about_p = 'hello world fushfusyhbfusbfu sufhbnbuhbsbf soudbfuhuysfb yigi';
 const h1_presale_coming_soon = "NFT Drop to be announced soon!";
-const h1_presale_mint = "Pre-Sale Minting Open!!";
-const h1_public_mint = "Public Minting Open!!";
+const h1_presale_mint = "Pre-Sale is now Open";
+const h1_public_mint = "Public Mint is Live!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
 const p_presale_coming_soon = "We are working hard to launch the NFT Collection. Stay tuned for updates!";
 const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
 const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
-const p_public_mint = "No whitelist needed. Public minting is now open! 🎉";
+const p_public_mint = "";
 const button_presale_coming_soon = "Get on the Whitelist";
-const button_presale_mint_whitelisted = "Mint Your Special NFT";
+const button_presale_mint_whitelisted = "Mint your unique Alien";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
 const button_presale_already_minted = "Join The Community";
-const button_public_mint = "Mint Your NFT";
+const button_public_mint = "Mint your Alien now, Good luck";
 const mint_failed = "Minting failed. 😢 Please try again.";
 
 const abi = [
