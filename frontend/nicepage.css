@@ -28844,7 +28844,7 @@ li.active > a.u-button-style.u-button-style.u-border-active-palette-1-light-3 {
 }
 .u-border-palette-1-base,
 .u-separator-palette-1-base:after {
-  border-color: #c40606;
+  border-color: #ffffff;
   stroke: #002559;
 }
 .u-button-style.u-border-palette-1-base {
@@ -37551,7 +37551,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-text-custom-color-7,
         a.u-button-style.u-text-custom-color-7[class*="u-border-"]
         {
-            color: #c40606 !important;
+            color: #ffffff !important;
         }
 
         a.u-button-style.u-text-custom-color-7:hover,
