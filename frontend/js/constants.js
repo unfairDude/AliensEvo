@@ -6,6 +6,7 @@ const welcome_h2 = "";
 const welcome_p = 'Aliens EVO is a new collection of unique aliens that you will love to have in your private collection.';
 const about_h1 = "Mint & Win Project";
 const about_p = 'hello world fushfusyhbfusbfu sufhbnbuhbsbf soudbfuhuysfb yigi';
+const prizes_h1 = 'this is the list of lucky traits';
 const h1_presale_coming_soon = "NFT Drop to be announced soon!";
 const h1_presale_mint = "Pre-Sale is now Open";
 const h1_public_mint = "Public Mint is Live!";
