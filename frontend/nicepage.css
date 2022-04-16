@@ -21751,12 +21751,12 @@ section.u-color-1:before,
 .u-container-layout.u-container-layout.u-color-1:before,
 .u-table-alt-color-1 tr:nth-child(even) {
   color: #ffffff;
-  background-color: #307fed;
+  background-color: #c40606;
 }
 .u-button-style.u-color-1,
 .u-button-style.u-color-1[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #307fed !important;
+  background-color: #c40606 !important;
 }
 .u-button-style.u-color-1:hover,
 .u-button-style.u-color-1[class*="u-border-"]:hover,
@@ -21769,7 +21769,7 @@ section.u-color-1:before,
 li.active > .u-button-style.u-button-style.u-color-1,
 li.active > .u-button-style.u-button-style.u-color-1[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #166feb !important;
+  background-color: #c40606 !important;
 }
 .u-hover-color-1:hover,
 .u-hover-color-1[class*="u-border-"]:hover,
@@ -21967,12 +21967,12 @@ section.u-color-1-base:before,
 .u-container-layout.u-container-layout.u-color-1-base:before,
 .u-table-alt-color-1-base tr:nth-child(even) {
   color: #ffffff;
-  background-color: #002559;
+  background-color: #c40606;
 }
 .u-button-style.u-color-1-base,
 .u-button-style.u-color-1-base[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #002559 !important;
+  background-color: #c40606 !important;
 }
 .u-button-style.u-color-1-base:hover,
 .u-button-style.u-color-1-base[class*="u-border-"]:hover,
@@ -21985,7 +21985,7 @@ section.u-color-1-base:before,
 li.active > .u-button-style.u-button-style.u-color-1-base,
 li.active > .u-button-style.u-button-style.u-color-1-base[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #002150 !important;
+  background-color: #c40606 !important;
 }
 .u-hover-color-1-base:hover,
 .u-hover-color-1-base[class*="u-border-"]:hover,
@@ -22008,10 +22008,10 @@ a.u-button-style.u-button-style.active > .u-active-color-1-base[class*="u-border
 li.active > a.u-button-style.u-button-style.u-active-color-1-base,
 li.active > a.u-button-style.u-button-style.u-active-color-1-base[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #002559 !important;
+  background-color: #c40606 !important;
 }
 a.u-link.u-hover-color-1-base:hover {
-  color: #002559 !important;
+  color: #c40606 !important;
 }
 .u-color-2-dark-3,
 .u-body.u-color-2-dark-3,
@@ -23803,12 +23803,12 @@ section.u-palette-1-dark-2:before,
 .u-container-layout.u-container-layout.u-palette-1-dark-2:before,
 .u-table-alt-palette-1-dark-2 tr:nth-child(even) {
   color: #ffffff;
-  background-color: #1c2d46;
+  background-color: #c40606;
 }
 .u-button-style.u-palette-1-dark-2,
 .u-button-style.u-palette-1-dark-2[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #1c2d46 !important;
+  background-color: #c40606 !important;
 }
 .u-button-style.u-palette-1-dark-2:hover,
 .u-button-style.u-palette-1-dark-2[class*="u-border-"]:hover,
@@ -23821,7 +23821,7 @@ section.u-palette-1-dark-2:before,
 li.active > .u-button-style.u-button-style.u-palette-1-dark-2,
 li.active > .u-button-style.u-button-style.u-palette-1-dark-2[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #19293f !important;
+  background-color: #c40606 !important;
 }
 .u-hover-palette-1-dark-2:hover,
 .u-hover-palette-1-dark-2[class*="u-border-"]:hover,
@@ -23844,10 +23844,10 @@ a.u-button-style.u-button-style.active > .u-active-palette-1-dark-2[class*="u-bo
 li.active > a.u-button-style.u-button-style.u-active-palette-1-dark-2,
 li.active > a.u-button-style.u-button-style.u-active-palette-1-dark-2[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #1c2d46 !important;
+  background-color: #c40606 !important;
 }
 a.u-link.u-hover-palette-1-dark-2:hover {
-  color: #1c2d46 !important;
+  color: #c40606 !important;
 }
 .u-palette-1-dark-1,
 .u-body.u-palette-1-dark-1,
@@ -23857,12 +23857,12 @@ section.u-palette-1-dark-1:before,
 .u-container-layout.u-container-layout.u-palette-1-dark-1:before,
 .u-table-alt-palette-1-dark-1 tr:nth-child(even) {
   color: #ffffff;
-  background-color: #002559;
+  background-color: #c40606;
 }
 .u-button-style.u-palette-1-dark-1,
 .u-button-style.u-palette-1-dark-1[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #002559 !important;
+  background-color: #c40606 !important;
 }
 .u-button-style.u-palette-1-dark-1:hover,
 .u-button-style.u-palette-1-dark-1[class*="u-border-"]:hover,
@@ -23875,7 +23875,7 @@ section.u-palette-1-dark-1:before,
 li.active > .u-button-style.u-button-style.u-palette-1-dark-1,
 li.active > .u-button-style.u-button-style.u-palette-1-dark-1[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #002150 !important;
+  background-color: #c40606 !important;
 }
 .u-hover-palette-1-dark-1:hover,
 .u-hover-palette-1-dark-1[class*="u-border-"]:hover,
@@ -23898,7 +23898,7 @@ a.u-button-style.u-button-style.active > .u-active-palette-1-dark-1[class*="u-bo
 li.active > a.u-button-style.u-button-style.u-active-palette-1-dark-1,
 li.active > a.u-button-style.u-button-style.u-active-palette-1-dark-1[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #002559 !important;
+  background-color: #c40606 !important;
 }
 a.u-link.u-hover-palette-1-dark-1:hover {
   color: #002559 !important;
@@ -24145,7 +24145,7 @@ section.u-palette-1-base:before,
 li.active > .u-button-style.u-button-style.u-palette-1-base,
 li.active > .u-button-style.u-button-style.u-palette-1-base[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #002150 !important;
+  background-color: #c40606 !important;
 }
 .u-hover-palette-1-base:hover,
 .u-hover-palette-1-base[class*="u-border-"]:hover,
@@ -24168,10 +24168,10 @@ a.u-button-style.u-button-style.active > .u-active-palette-1-base[class*="u-bord
 li.active > a.u-button-style.u-button-style.u-active-palette-1-base,
 li.active > a.u-button-style.u-button-style.u-active-palette-1-base[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #002559 !important;
+  background-color: #c40606 !important;
 }
 a.u-link.u-hover-palette-1-base:hover {
-  color: #002559 !important;
+  color: #002559 !c40606;
 }
 .u-palette-2-dark-3,
 .u-body.u-palette-2-dark-3,
